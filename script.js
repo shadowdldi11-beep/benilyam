@@ -4,7 +4,7 @@ function sifreSor() {
 
     console.log("Girilen şifre:", sifre);
 
-    if (sifre.trim() === "benilyam1507") {
+    if (sifre.trim() === "benilyam1705") {
 
         document.getElementById("login").style.display = "none";
         document.getElementById("site").style.display = "block";
